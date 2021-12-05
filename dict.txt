@@ -1,0 +1,124 @@
+你好	le2 ho2	你好
+是	si6	是
+唔是	m(7) si6	不是
+有	u6	有
+无	bho5	没有
+～谢	zoi7 sia7	谢谢
+累你	lui7 le7	麻烦了、拜托了、谢谢
+孬意思	mo2 i3 se3	不好意思
+免客气	miang(6) kêh(8) ki3	不用客气
+对唔住	dui3 m(7) zu6	对不起
+潮州话	dio(7) ziu1 uê7	潮州话
+潮州人	dio(7) ziu1 nang5	潮州人
+我	ua2	我
+你	le2	你
+伊	i1	他
+阮	uang2	我们
+俺	nang2	咱们
+恁	ning2	你们
+伊人	i(1) nang7	他们
+我个	ua2 gai7	我的
+哋个	di7 gai5	谁
+乜个	mih(8) gai5	什么東西
+这个	zê(6) gai7	这个
+许个	he(6) gai7	那个
+这仔	zi(7) gian2	这里
+许仔	he(7) gian2	那里
+哋仔	di(7) gian2	哪里
+一	zêg8
+二	no6
+三	san1
+四	si3
+五	ngou6
+六	lag8
+七	cig4
+八	boih4
+九	gao2
+十	zab8
+十一	zab(4) ig4
+十二	zab(4) ri6
+十三	zab(4) san1
+二十	ri(7) zab8
+二十一	ri(7) zab(4) ig4
+二十二	ri(7) zab(4) ri6
+三十	san1 zab8
+一百	zêg(4) bêh4
+两百	no(7) bêh4
+一千	zêg(4) cain1
+两千	no(7) cain1
+百	bêh4
+千	cain1
+万	bhuang7
+亿	êg8
+兆	diao6
+第一	doin(7) ig4
+第二	doin(7) ri6
+前鬼年	zoin(7) gui(6) ni5	前几年
+畔年	boin(7) ni5	往年
+旧年	gu(7) ni5	去年
+经年	gi1 ni5	今年
+夜年	mê(7) ni5	明年
+上日	ziễn(7) zig4	前天
+渣日	za1 zig4	昨天
+经日	ging1 zig4	今天
+～日	mua(2) zig4	明天
+后日	ou(6) zig4	后天
+大后日	dua7 ou(6) zig4	大后天
+渣夜	za1 mê5	昨晚
+经夜	ging1 mê5	今晚
+～夜	mua(2) mê5	明晚
+夜～	mê5 gua4	晚上
+日～	zig(8) gua4	白天
+夜昏	mê(7) hng1	黃昏
+眠起早	mung(7) ki(6) za4	清晨
+眠起	mung(7) ki2	上午
+日～	zig(8) dao3	中午
+下～	ê(7) gua3	下午
+担	dan1	現在
+阿公	a1 gong1	祖父
+阿妈	a1 ma2	祖母
+外公	ghua7 gong1	外祖父
+外妈	ghua7 ma2	外祖母
+阿父	a1 bê6	父亲（陈述）
+阿爸	a1 ba1	父亲
+阿母	a1 bho2	母亲
+阿妈	a1 ma5	母亲
+翁	ang1	丈夫
+嬤	bhou2	妻子
+翁姐	ang1 zia2	夫妻
+逗子	nao(1) gian2	兒子
+走仔	zao(2) gian2	女兒
+阿兄	a1 hian1	哥哥
+阿弟	a1 di6	弟弟
+阿姐	a1 zê2	姐姐
+阿妹	a1 muê7	妹妹
+阿伯	a1 bêh4	伯父
+阿姆	a1 m2	伯娘
+阿叔	a1 zêg4	叔
+阿婶	a1 sim2	婶
+阿丈	a1 dion6	姑丈
+阿姑	a1 gou1	姑
+阿～	a1 gu6	舅父
+阿妗	a1 gim6	舅母
+姨丈	i(1) dion6	姨丈
+阿姨	a1 i5	姨
+头	tao5	头
+面	ming7	面
+身	sing1	身体
+手	ciu2	手
+脚	ka1	脚
+目	mag8	眼晴
+眉	bhai5	眼眉
+嘴	cui3	口
+鼻	pin7	鼻
+耳	hin6	耳朵
+齿	ki2	牙齿
+头毛	tao(7) mo5	头髮
+舌	zih8	舌头
+颈	am6	颈
+肩头	goin1 tao5	肩膀
+手指	ciu(6) zoin2	手指
+脚指	ka(1) zoin2	脚趾
+雅	ngia2	美丽、漂亮
+野样	ia(6) iễn7	难看
+孬死	mo(6) sih4	淘气
