@@ -40,7 +40,7 @@ def check(word):
             if a.attr['data-rel']:
                 r = requests.get(a.attr['data-rel'])
                 open(path, 'wb').write(r.content)
-        ret.append(path)
+                ret.append(path)
     return ret
 
 def main():
@@ -56,14 +56,16 @@ def main():
                     pass
         if len(word['word']) == 1:
             continue
+        mem[word['word']] = []
         for i in [0,1]:
             paths = []
             for w in word['word']:
-                if i >= len(mem[w]):
+                if i > len(mem[w]) - 1:
                     break
                 paths.append(mem[w][i])
             else:
-                merge(word['word'], paths)
+                mem[word['word']].append(
+                    merge(word['word']+str(i), paths))
 
 if __name__ == '__main__':
     main()
